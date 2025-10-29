@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me:
-- 💻 Passionate about Android development using **Kotlin & Jetpack Compose**
+- 💻 Passionate about Android development using **Kotlin Flutter & Jetpack Compose**
 - 🌱 Currently exploring **AI & Cloud Integration**
 - 🧩 Interested in **Smart Education | CleanTech | SpaceTech | Hackathons**
 - 🎯 Focused and determined learner
