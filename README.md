@@ -15,16 +15,16 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/divyansh-singh-332b741aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BY3qgtcIhQ5aHTKYrG6k7Xw%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github" target="_blank">
+  <a href="https://github.com/trghcj" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="ms1778937@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/yourusername/" target="_blank">
+  <a href="https://www.instagram.com/divyanshsingh912/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
 </p>
