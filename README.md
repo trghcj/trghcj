@@ -1,6 +1,6 @@
 # Divyansh-Singh
 <h1 align="center">Hey 👋, I'm Divyansh Singh</h1>
-<h3 align="center">🚀 B.Tech CSE (AI) | Android & Web Developer | Senior Coordinator @ CDC</h3>
+<h3 align="center">🚀 B.Tech CSE (AI) | Android & Web Developer </h3>
 
 ---
 
