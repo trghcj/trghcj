@@ -49,18 +49,18 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=trghcj&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=trghcj&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trghcj&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trghcj&theme=radical)
+
 
 ---
 
 ### 🏆 Achievements:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=trghcj&theme=radical&no-frame=true&margin-w=15)
-
 
 ---
 
