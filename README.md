@@ -8,7 +8,7 @@
 - 💻 Passionate about Android development using **Kotlin Flutter & Jetpack Compose**
 - 🌱 Currently exploring **AI & Cloud Integration**
 - 🧩 Interested in **Smart Education | CleanTech | SpaceTech | Hackathons**
-- 🎯 Focused and determined learner .
+- 🎯 Focused and determined learner 
 - ⚡ Fun fact: I love sports & exploring new tech ideas!
 
 ---
