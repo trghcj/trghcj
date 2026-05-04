@@ -77,4 +77,4 @@
 ---
 
 ## 💡 Fun Line  
-> **"Code. Build. Scale. Repeat — because ideas deserve execution 🚀"**
+> **"Learning,Open to contribute & Building something useful"**
