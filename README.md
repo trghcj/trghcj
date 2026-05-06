@@ -11,7 +11,7 @@
 - 🌐 Full Stack → **React | Node.js | FastAPI**  
 - 🌱 Exploring **AI + Cloud Integration**  
 - 🧩 Interested in **Smart Education | CleanTech | SpaceTech**  
-- ⚡ Fun fact: I mix **sports + tech + hackathons**
+- ⚡ Fun fact: I mix **sports + tech + hackathon**
 
 ---
 
