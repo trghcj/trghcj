@@ -53,15 +53,14 @@
 </p>
 
 ---
-
-## 🛠️ Tech Arsenal
+<h2>🛠️ Tech Arsenal</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,kotlin,java,flutter,react,nodejs,firebase,mysql,postgres,git,github,figma,vscode,androidstudio" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Building+Zynkup+🚀;Flutter+%2B+FastAPI+Developer;Hackathon+Builder;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Android+Developer;AI+Enthusiast;FastAPI+Builder;Flutter+Developer;Open+Source+Learner" />
 </p>
 ---
 
