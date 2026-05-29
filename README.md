@@ -54,10 +54,14 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+<h2>🛠️ Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,flutter,react,nodejs,fastapi,firebase,mysql,postgres,git,github,figma,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,flutter,react,nodejs,firebase,mysql,postgres,git,github,figma,vscode,androidstudio" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Android+Developer;AI+Enthusiast;FastAPI+Builder;Flutter+Developer;Open+Source+Learner" />
 </p>
 
 ---
@@ -94,38 +98,6 @@ A modern campus engagement platform helping students discover events, clubs, opp
 **Tech Stack:** Flutter • FastAPI • Firebase
 
 ---
-
-### 🏥 Smart Healthcare Solutions
-Healthcare-focused applications involving queue management, patient assistance, and resource tracking systems.
-
-**Tech Stack:** Kotlin • Jetpack Compose • Firebase
-
----
-
-### 🤖 AI & Automation Projects
-Exploring intelligent systems, automation workflows, and practical AI-powered applications.
-
-**Tech Stack:** Python • AI/ML • FastAPI
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Scaling **Zynkup** into a complete campus ecosystem
-- 🤖 Deepening expertise in AI & Machine Learning
-- 🌐 Building production-ready full-stack applications
-- 📈 Growing as a technical leader and problem solver
-
----
-
-## 📅 2026 Goals
-
-- ✅ Launch impactful products
-- ✅ Strengthen AI Engineering skills
-- ✅ Contribute to Open Source
-- ✅ Secure high-impact Software/AI Engineering opportunities
-- ✅ Build a strong developer portfolio
-
 ---
 
 ## 💡 Philosophy
