@@ -1,49 +1,68 @@
-# 👋 Hey, I'm Divyansh Singh 
+# 👋 Hey, I'm Divyansh Singh
 
-<h3 align="center">🚀 B.Tech CSE (AI) | Android & Full Stack Developer</h3>
-<p align="center"><b>Discover. Build. Scale.</b></p>
+<h3 align="center">🚀 AI Engineer in Progress | Full Stack Developer | Builder of Real-World Products</h3>
 
----
+<p align="center">
+  <i>Transforming ideas into scalable products through AI, mobile, and web technologies.</i>
+</p>
 
-## 🌟 About Me  
-- 💻 Building real-world products like **Zynkup**  
-- 📱 Android Dev → **Kotlin | Jetpack Compose | Flutter**  
-- 🌐 Full Stack → **React | Node.js | FastAPI**  
-- 🌱 Exploring **AI + Cloud Integration**  
-- 🧩 Interested in **Smart Education | CleanTech | SpaceTech**  
-- ⚡ Fun fact: I mix **sports + tech + hackathons**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trghcj&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me  
+## 🚀 About Me
+
+🎓 **B.Tech CSE (Artificial Intelligence)** @ Maharaja Agrasen Institute of Technology
+
+💼 **Senior Coordinator & Database Manager Co-Head** @ Career Development Cell (CDC)
+
+💻 Passionate about building impactful digital products that solve real-world problems
+
+🌱 Currently exploring:
+- Artificial Intelligence & Machine Learning
+- Scalable Backend Systems
+- Cloud & DevOps
+- Product Development
+
+🏆 Active participant in Hackathons, Technical Communities, and Open Source Learning
+
+⚡ I enjoy combining technology, leadership, and innovation to create meaningful solutions.
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/divyansh-singh-332b741aa">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="https://github.com/trghcj">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:ms1778937@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
-  <a href="https://www.instagram.com/divyanshsingh912/">
+
+  <a href="https://www.instagram.com/divyanshsingh912">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack  
+## 🛠️ Tech Arsenal
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,react,nodejs,fastapi,firebase,mysql,python,git,figma" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,flutter,react,nodejs,fastapi,firebase,mysql,postgres,git,github,figma,vscode,androidstudio" />
 </p>
 
 ---
 
-# 📊 GitHub Dashboard  
+# 📊 GitHub Analytics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trghcj&theme=tokyonight)
 
@@ -57,29 +76,66 @@
 
 ---
 
-## 🔥 GitHub Stats (Live)
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trghcj&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-  
-  <img src="https://streak-stats.demolab.com?user=trghcj&theme=radical&cache_seconds=1800"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=trghcj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+
+  <img height="170em" src="https://streak-stats.demolab.com?user=trghcj&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🏆 Achievements  
+## 🚀 Featured Projects
+
+### 🎉 Zynkup
+A modern campus engagement platform helping students discover events, clubs, opportunities, and connect with their campus ecosystem.
+
+**Tech Stack:** Flutter • FastAPI • Firebase
+
+---
+
+### 🏥 Smart Healthcare Solutions
+Healthcare-focused applications involving queue management, patient assistance, and resource tracking systems.
+
+**Tech Stack:** Kotlin • Jetpack Compose • Firebase
+
+---
+
+### 🤖 AI & Automation Projects
+Exploring intelligent systems, automation workflows, and practical AI-powered applications.
+
+**Tech Stack:** Python • AI/ML • FastAPI
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Scaling **Zynkup** into a complete campus ecosystem
+- 🤖 Deepening expertise in AI & Machine Learning
+- 🌐 Building production-ready full-stack applications
+- 📈 Growing as a technical leader and problem solver
+
+---
+
+## 📅 2026 Goals
+
+- ✅ Launch impactful products
+- ✅ Strengthen AI Engineering skills
+- ✅ Contribute to Open Source
+- ✅ Secure high-impact Software/AI Engineering opportunities
+- ✅ Build a strong developer portfolio
+
+---
+
+## 💡 Philosophy
+
+> **"Great products are built when technology meets purpose."**
+
+> **"Learn continuously. Build relentlessly. Impact meaningfully."**
+
+---
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trghcj&theme=radical&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trghcj&theme=tokyo-night" />
 </p>
-
----
-
-## 🚀 Currently Building  
-- 📱 **Zynkup** – Campus Event Platform *(Flutter + FastAPI + Firebase)*  
-- 🤖 AI-based Projects *(Final Year Focus)*  
-- ⚙️ Backend APIs & scalable architectures using **FastAPI**  
-
----
-
-## 💡 Fun Line  
-> **"Learning, contributing & building something useful every day."**
