@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Divyansh Singh  
+# 👋 Hey, I'm Divyansh Singh 
 
 <h3 align="center">🚀 B.Tech CSE (AI) | Android & Full Stack Developer</h3>
 <p align="center"><b>Discover. Build. Scale.</b></p>
