@@ -54,16 +54,19 @@
 
 ---
 
-<h2>🛠️ Tech Arsenal</h2>
+## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,flutter,react,nodejs,firebase,mysql,postgres,git,github,figma,vscode,androidstudio" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+in+Progress;Full+Stack+Developer;Android+Developer;Flutter+%2B+FastAPI+Builder;Building+Zynkup+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Android+Developer;AI+Enthusiast;FastAPI+Builder;Flutter+Developer;Open+Source+Learner" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,flutter,react,nodejs,firebase,mysql,postgres,git,github,figma,vscode,androidstudio&perline=7" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trghcj&theme=tokyonight" />
+</p>
 ---
 
 # 📊 GitHub Analytics
