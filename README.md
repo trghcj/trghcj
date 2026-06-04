@@ -85,8 +85,6 @@
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=trghcj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
-  <img height="170em" src="https://streak-stats.demolab.com?user=trghcj&theme=tokyonight"/>
-</p>
 
 ---
 
