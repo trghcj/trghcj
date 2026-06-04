@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Divyansh Singh
 
-<h3 align="center">🚀 AI Engineer in Progress | Full Stack Developer | Builder of Real-World Products</h3>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Building Scalable Products</h3>
 
 <p align="center">
-  <i>Transforming ideas into scalable products through AI, mobile, and web technologies.</i>
+  <i>Transforming ideas into scalable products through web, mobile, and data-driven technologies.</i>
 </p>
 
 <p align="center">
@@ -16,19 +16,19 @@
 
 🎓 **B.Tech CSE (Artificial Intelligence)** @ Maharaja Agrasen Institute of Technology
 
-💼 **Senior Coordinator & Database Manager Co-Head** @ Career Development Cell (CDC)
+💻 Passionate about designing and developing scalable applications that solve real-world problems
 
-💻 Passionate about building impactful digital products that solve real-world problems
+🌱 Currently Learning & Exploring
 
-🌱 Currently exploring:
-- Artificial Intelligence & Machine Learning
+- Full Stack Development
 - Scalable Backend Systems
 - Cloud & DevOps
+- Data Analytics & Visualization
 - Product Development
 
 🏆 Active participant in Hackathons, Technical Communities, and Open Source Learning
 
-⚡ I enjoy combining technology, leadership, and innovation to create meaningful solutions.
+⚡ I enjoy combining technology, leadership, and innovation to create impactful solutions.
 
 ---
 
@@ -53,16 +53,18 @@
 </p>
 
 ---
-<h2>🛠️ Tech Arsenal</h2>
+
+# 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,flutter,react,nodejs,firebase,mysql,postgres,git,github,figma,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,flutter,react,fastapi,nodejs,firebase,mysql,postgres,git,github,figma,vscode,androidstudio" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Android+Developer;AI+Enthusiast;FastAPI+Builder;Flutter+Developer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;Flutter+Developer;FastAPI+Builder;Backend+Engineer;Open+Source+Learner" />
 </p>
 
+---
 
 # 📊 GitHub Analytics
 
@@ -88,14 +90,39 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=trghcj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Building **Talvix** – Recruitment Management & Analytics Platform
+- Strengthening Backend Engineering with FastAPI
+- Learning System Design Concepts
+- Contributing to impactful technical initiatives
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🎉 Zynkup
-A modern campus engagement platform helping students discover events, clubs, opportunities, and connect with their campus ecosystem.
+
+A modern campus engagement platform enabling students to discover events, clubs, opportunities, and connect with their campus ecosystem.
 
 **Tech Stack:** Flutter • FastAPI • Firebase
 
 ---
+
+### 💼 Talvix
+
+A Recruitment Management & Analytics Platform designed to streamline hiring workflows through applicant tracking, interview scheduling, job lifecycle management, and analytics dashboards.
+
+**Tech Stack:** React.js • FastAPI • PostgreSQL • Docker
+
 ---
 
 ## 💡 Philosophy
