@@ -93,9 +93,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trghcj" />
+  <img src="https://github-profile-trophy.vercel.app/?username=trghcj&theme=algolia" />
 </p>
-
 ---
 
 ## 🎯 Current Focus
