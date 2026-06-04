@@ -6,12 +6,6 @@
   <i>Transforming ideas into scalable products through web, mobile, and data-driven technologies.</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trghcj&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
-
----
-
 ## 🚀 About Me
 
 🎓 **B.Tech CSE (Artificial Intelligence)** @ Maharaja Agrasen Institute of Technology
