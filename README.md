@@ -1,46 +1,42 @@
-# 👋 Hey, I'm Divyansh Singh
+# Hey, I'm Divyansh Singh
 
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Building Scalable Products</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Building Scalable Products</h3>
 
 <p align="center">
   <i>Transforming ideas into scalable products through web, mobile, and data-driven technologies.</i>
 </p>
 
-## 🚀 About Me
+## About Me
 
-🎓 **B.Tech CSE (Artificial Intelligence)** @ Maharaja Agrasen Institute of Technology
+**B.Tech CSE (Artificial Intelligence)** @ Maharaja Agrasen Institute of Technology
 
-💻 Passionate about designing and developing scalable applications that solve real-world problems
+Passionate about designing and developing scalable applications that solve real-world problems.
 
-🌱 Currently Learning & Exploring
-
+Currently Learning & Exploring:
 - Full Stack Development
 - Scalable Backend Systems
 - Cloud & DevOps
 - Data Analytics & Visualization
 - Product Development
 
-🏆 Active participant in Hackathons, Technical Communities, and Open Source Learning
+Active participant in Hackathons, Technical Communities, and Open Source Learning.
 
-⚡ I enjoy combining technology, leadership, and innovation to create impactful solutions.
+I enjoy combining technology, leadership, and innovation to create impactful solutions.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divyansh-singh-332b741aa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/trghcj">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="mailto:ms1778937@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.instagram.com/divyanshsingh912">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -48,7 +44,7 @@
 
 ---
 
-# 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,flutter,react,fastapi,nodejs,firebase,mysql,postgres,git,github,figma,vscode,androidstudio" />
@@ -60,27 +56,26 @@
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Analytics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trghcj&theme=tokyonight)
 
-| 🔥 Languages by Repo | 💻 Languages by Commit |
+| Languages by Repo | Languages by Commit |
 |---------------------|----------------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trghcj&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trghcj&theme=tokyonight) |
 
-| 📈 Stats | ⏱ Productivity |
+| Stats | Productivity |
 |---------|--------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trghcj&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trghcj&theme=tokyonight&utcOffset=5) |
 
 ---
 
-## 🔥 GitHub Stats
+## GitHub Stats
 <img height="170em" src="https://streak-stats.demolab.com?user=trghcj&theme=tokyonight"/>
-</p>
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building **Talvix** – Recruitment Management & Analytics Platform
 - Strengthening Backend Engineering with FastAPI
@@ -89,25 +84,30 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎉 Zynkup
+### ClipNest
+An intelligent, AI-powered bookmark manager that automatically extracts metadata, generates summaries, and enables semantic search for web pages, YouTube videos, and PDFs. Features a custom Chrome Extension and a distraction-free reader mode.
 
+**Tech Stack:** React • FastAPI • PostgreSQL (pgvector) • Google Gemini AI • Firebase
+
+---
+
+### Zynkup
 A modern campus engagement platform enabling students to discover events, clubs, opportunities, and connect with their campus ecosystem.
 
 **Tech Stack:** Flutter • FastAPI • Firebase
 
 ---
 
-### 💼 Talvix
-
+### Talvix
 A Recruitment Management & Analytics Platform designed to streamline hiring workflows through applicant tracking, interview scheduling, job lifecycle management, and analytics dashboards.
 
 **Tech Stack:** React.js • FastAPI • PostgreSQL • Docker
 
 ---
 
-## 💡 Philosophy
+## Philosophy
 
 > **"Great products are built when technology meets purpose."**
 
