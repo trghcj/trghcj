@@ -86,6 +86,13 @@ I enjoy combining technology, leadership, and innovation to create impactful sol
 
 ## Featured Projects
 
+### TaskFlow
+A full-stack enterprise-grade task management platform designed to help individuals and teams organize their workflows. It features a dynamic Kanban board, calendar views with native timezone handling, automated background reminders, and an interactive analytics dashboard.
+
+**Tech Stack:** React 19 • TypeScript • FastAPI • PostgreSQL • Tailwind CSS • Firebase
+
+---
+
 ### ClipNest
 An intelligent, AI-powered bookmark manager that automatically extracts metadata, generates summaries, and enables semantic search for web pages, YouTube videos, and PDFs. Features a custom Chrome Extension and a distraction-free reader mode.
 
