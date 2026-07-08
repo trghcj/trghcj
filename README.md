@@ -15,7 +15,6 @@ Passionate about designing and developing scalable applications that solve real-
 Currently Learning & Exploring:
 - Full Stack Development
 - Scalable Backend Systems
-- Cloud & DevOps
 - Data Analytics & Visualization
 - Product Development
 
@@ -77,7 +76,6 @@ I enjoy combining technology, leadership, and innovation to create impactful sol
 
 ## Current Focus
 
-- Building **Talvix** – Recruitment Management & Analytics Platform
 - Strengthening Backend Engineering with FastAPI
 - Learning System Design Concepts
 - Contributing to impactful technical initiatives
