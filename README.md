@@ -52,10 +52,14 @@ Passionate about designing and developing scalable applications that solve real-
 
 ---
 
-## GitHub Stats
+## GitHub Overview
 
 <p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=trghcj&theme=tokyonight"/>
+  <a href="https://github.com/trghcj">
+    <img src="https://img.shields.io/github/followers/trghcj?label=Followers&style=for-the-badge&logo=github&color=0284C7&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Scalable_Backends_%26_AI-10B981?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=trghcj&style=for-the-badge&color=6366F1&label=Profile+Views"/>
 </p>
 
 ---
@@ -68,63 +72,14 @@ Passionate about designing and developing scalable applications that solve real-
 
 ---
 
-## Featured Projects
+## Dev Terminal
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">TaskFlow</h3>
-      <p align="center">Enterprise workflow & task management system featuring dynamic Kanban boards, timezone-aware scheduling, and background notifications.</p>
-      <p align="center">
-        <a href="https://github.com/trghcj/TaskFlow"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-0077B5?style=flat&logo=vercel"/></a>
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,ts,fastapi,postgres,tailwind,firebase" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">ClipNest</h3>
-      <p align="center">AI-assisted knowledge and bookmark manager featuring metadata extraction, Google Gemini AI summaries, and semantic vector search.</p>
-      <p align="center">
-        <a href="https://github.com/trghcj/ClipNest"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat&logo=googlechrome"/></a>
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,fastapi,postgres,firebase" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Zynkup</h3>
-      <p align="center">Campus engagement mobile application for event discovery, inter-college competitions, digital ticketing, and QR attendance verification.</p>
-      <p align="center">
-        <a href="https://github.com/trghcj/zynkup-app"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github"/></a>
-        <a href="https://github.com/trghcj/zynkup-app/releases"><img src="https://img.shields.io/badge/Release-APK-3DDC84?style=flat&logo=android"/></a>
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,fastapi,postgres,firebase" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Talvix</h3>
-      <p align="center">Recruitment management platform designed to streamline hiring pipelines, interview scheduling, and applicant lifecycle tracking.</p>
-      <p align="center">
-        <a href="https://github.com/trghcj/Talvix"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat&logo=docker"/></a>
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,fastapi,postgres,docker" />
-      </p>
-    </td>
-  </tr>
-</table>
+```bash
+$ divyansh --status --verbose
 
----
-
-## Philosophy
-
-> "Great products are built when technology meets purpose."
-
-> "Learn continuously. Build relentlessly. Impact meaningfully."
+[+] System       : B.Tech CSE (AI) @ MAIT
+[+] Primary OS   : Windows / Linux
+[+] Fuel Level   : 99.4% Caffeine && Good Music ☕
+[+] Coding Style : Clean Architecture, Strong Typing, Async-First
+[+] Debug Rule   : If it works, optimize it. If it breaks, blame the cache.
+[+] Fun Fact     : "There are 10 types of people: those who understand binary, and those who don't."
