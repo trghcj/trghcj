@@ -1,112 +1,52 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dharmx/walls/main/anime/a_road_leading_to_a_city.jpg" alt="Header Banner" width="100%" />
-</p>
+## 🚀 Featured Projects
 
-# Hey, I'm Divyansh Singh 👋
-
-<h3 align="center">Full Stack Developer | AI Enthusiast | Building Scalable Products</h3>
-
-<p align="center">
-  <i>Transforming ideas into scalable products through web, mobile, and data-driven technologies.</i>
-</p>
-
-## About Me
-
-**B.Tech CSE (Artificial Intelligence)** @ Maharaja Agrasen Institute of Technology
-
-Passionate about designing and developing scalable applications that solve real-world problems.
-
-Currently Learning & Exploring:
-- Full Stack Development
-- Scalable Backend Systems
-- Data Analytics & Visualization
-- Product Development
-
-Active participant in Hackathons, Technical Communities, and Open Source Learning.
-
-I enjoy combining technology, leadership, and innovation to create impactful solutions.
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/divyansh-singh-332b741aa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/trghcj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:ms1778937@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/divyanshsingh912">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,flutter,react,fastapi,nodejs,firebase,mysql,postgres,git,github,figma,vscode,androidstudio" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;Flutter+Developer;FastAPI+Builder;Backend+Engineer;Open+Source+Learner" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=trghcj&theme=tokyonight"/>
-</p>
-
----
-
-## Current Focus
-
-- Strengthening Backend Engineering with FastAPI
-- Learning System Design Concepts
-- Contributing to impactful technical initiatives
-
----
-
-## Featured Projects
-
-### TaskFlow
-A full-stack enterprise-grade task management platform designed to help individuals and teams organize their workflows. It features a dynamic Kanban board, calendar views with native timezone handling, automated background reminders, and an interactive analytics dashboard.
-
-**Tech Stack:** React 19 • TypeScript • FastAPI • PostgreSQL • Tailwind CSS • Firebase
-
----
-
-### ClipNest
-An intelligent, AI-powered bookmark manager that automatically extracts metadata, generates summaries, and enables semantic search for web pages, YouTube videos, and PDFs. Features a custom Chrome Extension and a distraction-free reader mode.
-
-**Tech Stack:** React • FastAPI • PostgreSQL (pgvector) • Google Gemini AI • Firebase
-
----
-
-### Zynkup
-A modern campus engagement platform enabling students to discover events, clubs, opportunities, and connect with their campus ecosystem.
-
-**Tech Stack:** Flutter • FastAPI • Firebase
-
----
-
-### Talvix
-A Recruitment Management & Analytics Platform designed to streamline hiring workflows through applicant tracking, interview scheduling, job lifecycle management, and analytics dashboards.
-
-**Tech Stack:** React.js • FastAPI • PostgreSQL • Docker
-
----
-
-## Philosophy
-
-> **"Great products are built when technology meets purpose."**
-
-> **"Learn continuously. Build relentlessly. Impact meaningfully."**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ TaskFlow</h3>
+      <p align="center"><i>Full-stack enterprise task management platform with dynamic Kanban boards & automated reminder queues.</i></p>
+      <p align="center">
+        <a href="https://github.com/trghcj/TaskFlow"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-0077B5?style=flat&logo=vercel"/></a>
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,ts,fastapi,postgres,tailwind,firebase" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 ClipNest</h3>
+      <p align="center"><i>AI-powered bookmark manager with Gemini AI semantic embeddings, auto-summaries, and Chrome extension.</i></p>
+      <p align="center">
+        <a href="https://github.com/trghcj/ClipNest"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/AI-Gemini-8E75B2?style=flat&logo=google"/></a>
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,fastapi,postgres,firebase" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Zynkup</h3>
+      <p align="center"><i>Campus ecosystem app for discovery, inter-college events, ticket QR generation & attendee validation.</i></p>
+      <p align="center">
+        <a href="https://github.com/trghcj/zynkup-app"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/App-Android-3DDC84?style=flat&logo=android"/></a>
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,fastapi,postgres,firebase" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Talvix</h3>
+      <p align="center"><i>Recruitment & ATS platform with interview scheduling, candidate pipeline tracking, and analytics.</i></p>
+      <p align="center">
+        <a href="https://github.com/trghcj/Talvix"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Container-Docker-2496ED?style=flat&logo=docker"/></a>
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,fastapi,postgres,docker" />
+      </p>
+    </td>
+  </tr>
+</table>
