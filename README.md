@@ -1,4 +1,8 @@
-# Hey, I'm Divyansh Singh
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dharmx/walls/main/anime/a_road_leading_to_a_city.jpg" alt="Header Banner" width="100%" />
+</p>
+
+# Hey, I'm Divyansh Singh 👋
 
 <h3 align="center">Full Stack Developer | AI Enthusiast | Building Scalable Products</h3>
 
@@ -55,22 +59,11 @@ I enjoy combining technology, leadership, and innovation to create impactful sol
 
 ---
 
-## GitHub Analytics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trghcj&theme=tokyonight)
-
-| Languages by Repo | Languages by Commit |
-|---------------------|----------------------|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trghcj&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trghcj&theme=tokyonight) |
-
-| Stats | Productivity |
-|---------|--------------|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trghcj&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trghcj&theme=tokyonight&utcOffset=5) |
-
----
-
 ## GitHub Stats
-<img height="170em" src="https://streak-stats.demolab.com?user=trghcj&theme=tokyonight"/>
+
+<p align="center">
+  <img height="170em" src="https://streak-stats.demolab.com?user=trghcj&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -117,9 +110,3 @@ A Recruitment Management & Analytics Platform designed to streamline hiring work
 > **"Great products are built when technology meets purpose."**
 
 > **"Learn continuously. Build relentlessly. Impact meaningfully."**
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trghcj&theme=tokyo-night" />
-</p>
